@@ -1,3 +1,3 @@
 int something() {
-    DoB();
+    DoC();
 }
