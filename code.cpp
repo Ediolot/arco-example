@@ -1,3 +1,4 @@
 int something() {
     DoBOptimized();
+    DoC();
 }
