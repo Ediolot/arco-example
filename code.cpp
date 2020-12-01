@@ -1,3 +1,3 @@
 int something() {
-    DoA();
+    DoB();
 }
